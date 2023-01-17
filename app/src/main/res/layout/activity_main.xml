@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="ButtonOpenFile_OnClick"
-            android:text="Créer un fichier de zone"
+            android:text="@string/new_file"
             app:icon="@drawable/new_file"
             app:iconSize="48dp" />
 
@@ -28,7 +28,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:onClick="ButtonOpenFile_OnClick"
-            android:text="Ouvrir un fichier de zone"
+            android:text="@string/open_file"
             app:icon="@drawable/open_file"
             app:iconSize="48dp" />
     </LinearLayout>
