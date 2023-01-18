@@ -2,13 +2,26 @@
     <string name="app_name">Easy TS 2 Android</string>
 
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
     <string name="new_file">Créer un fichier de zone</string>
     <string name="open_file">Ouvrir un fichier de zone</string>
     <string name="nom_de_la_zone">Nom de la zone</string>
     <string name="largeur_de_la_zone">Largeur de la zone (en mètres)</string>
     <string name="longueur_de_la_zone">Longueur de la zone (en mètres)</string>
     <string name="distance_profils">Distance entre profils (en mètres)</string>
-    <string name="ecarts_largeur">Ecarts en largeur (en mètres)</string>
+    <string name="ecarts_largeur">Écart en largeur (en mètres)</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Easy TS 2 Android</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Paramètrres</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nouveau_fichier_de_zone">Nouveau fichier de zone</string>
 </resources>

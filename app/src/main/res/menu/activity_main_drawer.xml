@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Accueil" />
+        <item
+            android:id="@+id/nav_new_file"
+            android:icon="@drawable/new_file"
+            android:title="@string/nouveau_fichier_de_zone" />
+        <item
+            android:id="@+id/nav_open_file"
+            android:icon="@drawable/open_file"
+            android:title="Ouvrir un fichier de zone" />
+    </group>
+</menu>
